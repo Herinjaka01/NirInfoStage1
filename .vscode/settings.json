@@ -1,0 +1,5 @@
+{
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.suggest.preview": true
+}
