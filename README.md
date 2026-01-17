@@ -6,7 +6,3 @@ npm start
 cd backend-main
 php spark serve
 
-
-pour l'auth
-email : admin@invest.com
-mdp : admin123
